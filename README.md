@@ -1,5 +1,7 @@
 # wrr-AED-drivers
 
+This code repo is a collection of the final scripts for our study.
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -20,8 +22,6 @@ Atmospheric evaporative demand (AED) is an important variable linking climate wi
 
 - Vapor pressure deficit (VPD) is essential to predicting atmospheric evaporative demand in both energy-limited and water-limited regions, therefore models that do not incorporate VPD or underestimate the relative importance of VPD have relatively lower skill in predicting AED. Model predictions for AED and associated hydrologic impacts may not be valid in a changing climate when the key controls on AED and their relative importance are not appropriately represented.
 - Short-term forcing variability has potential impacts on the long-term AED changes through tempera- ture and associated land-atmosphere feedbacks.
-
-This code repo is a collection of the final scripts for our study.
 
 ### Reference
 Peng, L., Li, D., &amp; Sheffield, J. (2018). Drivers of Variability in Atmospheric Evaporative Demand: Multiscale Spectral Analysis Based on Observations and Physically Based Modeling. Water Resources Research, 54(5), 3510–3529. http://doi.org/10.1029/2017WR022104
