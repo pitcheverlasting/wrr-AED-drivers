@@ -23,7 +23,7 @@ Atmospheric evaporative demand (AED) is an important variable linking climate wi
 ### Highlights 
 
 - Vapor pressure deficit (VPD) is essential to predicting atmospheric evaporative demand in both energy-limited and water-limited regions, therefore models that do not incorporate VPD or underestimate the relative importance of VPD have relatively lower skill in predicting AED. Model predictions for AED and associated hydrologic impacts may not be valid in a changing climate when the key controls on AED and their relative importance are not appropriately represented.
-- Short-term forcing variability has potential impacts on the long-term AED changes through tempera- ture and associated land-atmosphere feedbacks.
+- Short-term forcing variability has potential impacts on the long-term AED changes through temperature and associated land-atmosphere feedbacks.
 
 
 <!-- USAGE EXAMPLES -->
